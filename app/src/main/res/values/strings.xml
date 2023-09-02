@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">TicmasFinal2</string>
+    <string name="ingrese_texto_1">Ingrese texto 1</string>
+    <string name="ingrese_texto_2">Ingrese texto 2</string>
+    <string name="comparar">Comparar</string>
+    <string name="ingrese_texto_3">Ingrese texto 1</string>
+    <string name="ingrese_texto_4">Ingrese texto 2</string>
+    <string name="ingrese_texto_1a">Ingrese texto 1</string>
+    <string name="ingrese_texto_2a">Ingrese texto 2</string>
+    <string name="comparar1">Comparar</string>
+</resources>
